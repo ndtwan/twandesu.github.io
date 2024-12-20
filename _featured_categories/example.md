@@ -3,15 +3,15 @@
 layout: list
 
 # The title of the tag's page.
-title: Example
+title: Projects of me
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: example
+slug: Project
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/example.md` to learn how to create your own.
+  Tôi nghĩ đây sẽ là nơi tôi thực hiện một vài dự án cá nhân trong thời gian tới (nếu có thời gian - vì tôi lười quá 🫠)
+  Anw, dưới đây là những gì tôi đã làm
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true

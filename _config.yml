@@ -20,7 +20,7 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Starter Kit
+title:                 Twan desu
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -29,7 +29,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:              Just a random wibu guy lost in the world of Data and AI.
 
 # A list of keywords for your blog
 keywords:              []
@@ -37,21 +37,21 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+logo:                  /assets/img/sidebar/avar.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Twan Nguyen
+  email:               nddt1810@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
+  - title:             Project
     url:               /example/
-  - title:             Documentation
+  - title:             Blog - Stuff
     url:               /docs/
   - title:             About
     url:               /about/
@@ -92,7 +92,8 @@ theme: jekyll-theme-hydejack
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          /assets/img/blog/sidebar.jpg
+# accent_image:          /assets/img/sidebar/avar.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
@@ -280,7 +281,8 @@ hydejack:
     enabled:           false
     cache_version:     13
     precache_assets:
-      - /assets/img/swipe.svg
+      # - /assets/img/sidebar/avar.jpg
+      - /assets/img/swipe.svg   #file sbg hinhf anhr
 
 
 # Collections
