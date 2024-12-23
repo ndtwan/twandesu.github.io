@@ -281,8 +281,8 @@ hydejack:
     enabled:           false
     cache_version:     13
     precache_assets:
-      # - /assets/img/sidebar/avar.jpg
-      - /assets/img/swipe.svg   #file sbg hinhf anhr
+      - /assets/img/sidebar/icon.svg
+      # - /assets/img/blog/w3m.svg   #file sbg hinhf anhr
 
 
 # Collections

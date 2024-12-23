@@ -1,7 +1,8 @@
 ---
 layout: post
+title: Chúng ta đã bắt đầu từ những gì rất khác
 description: > 
-  This feature release adds new social media icons for 2024 and makes dark mode available to everyone.
+  Lược sử loài người là một bản trường ca sử thi bất tận của đấu tranh, cải biến, và khát vọng – liệu hồi kết đã sắp hạ màn?
 image: 
   path: /assets/img/blog/history.png
   srcset: 
@@ -16,8 +17,11 @@ sitemap: false
 # Chúng ta đã bắt đầu từ những gì rất khác
 
 > Thanh niên kia từ đâu tới?
+
 > Tại sao họ lại hành động như vậy?
+
 > Họ là ai, nếu không phải chính chúng ta?
+
 > Oh, vậy ra họ là, như kiểu, đồng loại mình ấy hả?
 
 Chúng ta đã bắt đầu từ những gì đó rất khác. Trong vòng 13.000 năm sau Kỷ Băng hà, nhân loại đã bước đi trên những con đường khác nhau. Một số vùng phát triển được chữ viết, công cụ kim loại, và xã hội công nghiệp. Ngược lại, nhiều nơi chỉ dừng lại ở xã hội chăn nuôi hoặc săn bắt hái lượm, để rồi cuối cùng bị chinh phục bởi những kẻ mạnh hơn.
