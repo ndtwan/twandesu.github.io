@@ -17,19 +17,21 @@
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  vi, en
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 Twan desu
 
+# timezone:              Asia/VietNam
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Được truyền cảm hứng từ 2 người bạn Q và V, có bạn K nữa thì ta lại có công thức Attention khuấy đảo giang hồ 10 năm qua :>>.
+  Không như những người bạn kia thì tôi không quá tự tin về kỹ năng chuyên môn sâu của mình, nên tôi sẽ viết đơn giản về những chủ đề tôi quan tâm.
+  Những thứ đời thường hơn một chút. Hì 
 
 # A shorter description for the sidebar.
-tagline:              Just a random wibu guy lost in the world of Data and AI.
+tagline:              Just a random wibu guy lost in the world of AI.
 
 # A list of keywords for your blog
 keywords:              []
@@ -81,7 +83,7 @@ paginate_path:         /:num/
 # ---------------------------------------------------------------------------------------
 
 # This will use the gem `jekyll-theme-hydejack`, as defined in the sibling `Gemfile`.
-#theme: jekyll-theme-hydejack
+# theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9
 # You can uncomment `theme` above and replace it with `remote_theme` here iff you are using the 
 # `jekyll-remote-theme` plugin (which is the case when using the legacy GitHub Pages pipeline).
@@ -122,6 +124,8 @@ theme_color:           rgb(25,55,71)
 # The font used for code blocks. Expects a string that is a valid CSS font-family value. 
 # Defaults to the [System Monospace Font Stack](https://qwtel.com/posts/software/the-monospaced-system-ui-css-font-stack/).
 # font_code:             Fira Code, Menlo, Monaco, Consolas, monospace;
+favicon: /assets/icons/favicon.ico
+apple_touch_icon: /assets/icons/icon-192x192.png
 
 defaults:
   # You can use this to provide a default accent color and background for
@@ -281,8 +285,8 @@ hydejack:
     enabled:           false
     cache_version:     13
     precache_assets:
-      - /assets/img/sidebar/icon.svg
-      # - /assets/img/blog/w3m.svg   #file sbg hinhf anhr
+      # - /assets/img/sidebar/icon.png
+      - /assets/img/blog/w3m.svg  
 
 
 # Collections

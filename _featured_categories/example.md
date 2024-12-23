@@ -10,8 +10,7 @@ slug: Project
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Tôi nghĩ đây sẽ là nơi tôi thực hiện một vài dự án cá nhân trong thời gian tới (nếu có thời gian - vì tôi lười quá 🫠)
-  Anw, dưới đây là những gì tôi đã làm
+  Tôi nghĩ đây sẽ là nơi tôi thực hiện một vài dự án cá nhân trong thời gian tới ... nếu có thời gian (Chém gió vậy thôi chứ tôi lười quá 🫠)
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
